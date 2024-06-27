@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ThisAtit8211/Pinterest-project/static/css/main.69452823.css",
+    "main.js": "/ThisAtit8211/Pinterest-project/static/js/main.2c88ba69.js",
+    "static/media/profileimg.jpeg": "/ThisAtit8211/Pinterest-project/static/media/profileimg.9d479c9a8f7feeeb0736.jpeg",
+    "static/media/pinterest_logo.png": "/ThisAtit8211/Pinterest-project/static/media/pinterest_logo.8d3f2e58848b8388f308.png",
+    "index.html": "/ThisAtit8211/Pinterest-project/index.html",
+    "main.69452823.css.map": "/ThisAtit8211/Pinterest-project/static/css/main.69452823.css.map",
+    "main.2c88ba69.js.map": "/ThisAtit8211/Pinterest-project/static/js/main.2c88ba69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69452823.css",
+    "static/js/main.2c88ba69.js"
+  ]
+}
